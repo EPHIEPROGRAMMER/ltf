@@ -1,0 +1,11 @@
+.user-site-like {
+    line-height: 32px;
+    padding: 0 9px 0 44px;
+    color: #848484;
+    font-size: 16px;
+    background: url('https://www.litefinance.org/assets/3824f50f/images/like.svg') no-repeat 8px 5px #d6d6d6;
+    border-radius: 4px;
+    display: table;
+    margin: 5px auto;
+    cursor: pointer;
+}
